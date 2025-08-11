@@ -29,7 +29,7 @@ A Swift package providing the **BeaconBar** SDK for iOS apps.
 
 ```swift
 dependencies: [
-    .package(url: "https://github.com/WindoTech/ios-package.git", branch: "main")
+    .package(url: "https://github.com/WindoTech/ios-package.git", branch: "master")
 ]
 ```
 
